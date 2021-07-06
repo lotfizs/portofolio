@@ -10,11 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22647d81-b524-4d42-843f-e2cbbb7211ef" name="Default Changelist" comment="port">
-      <change afterPath="$PROJECT_DIR$/img/vraagteken.png" afterDir="false" />
+    <list default="true" id="22647d81-b524-4d42-843f-e2cbbb7211ef" name="Default Changelist" comment="portfolio">
+      <change afterPath="$PROJECT_DIR$/img/CV-Lotfi Zaher Saidi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/chatapp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/java game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sike.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/website voor school.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +73,10 @@
       <workItem from="1608895729710" duration="16828000" />
       <workItem from="1608923796043" duration="126000" />
       <workItem from="1608923925230" duration="13109000" />
-      <workItem from="1609168791615" duration="383000" />
+      <workItem from="1609168791615" duration="1739000" />
+      <workItem from="1609858130123" duration="619000" />
+      <workItem from="1616585690397" duration="2726000" />
+      <workItem from="1625577622675" duration="3302000" />
     </task>
     <task id="LOCAL-00001" summary="port">
       <created>1608923950978</created>
@@ -79,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608923950978</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="port">
+      <created>1609169453942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609169453942</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,21 +115,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="port" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="125" width="763" height="820" key="DiffContextDialog" timestamp="1609168788817">
-      <screen x="0" y="25" width="1792" height="1020" />
+    <state x="405" y="196" key="SettingsEditor" timestamp="1625580606745">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="100" y="125" width="763" height="820" key="DiffContextDialog/0.25.1792.1020@0.25.1792.1020" timestamp="1609168788817" />
-    <state x="0" y="171" key="SettingsEditor" timestamp="1609163429492">
-      <screen x="0" y="25" width="1792" height="1020" />
-    </state>
-    <state x="0" y="171" key="SettingsEditor/0.25.1792.1020@0.25.1792.1020" timestamp="1609163429492" />
-    <state x="537" y="272" key="Vcs.Push.Dialog.v2" timestamp="1608923956649">
-      <screen x="0" y="25" width="1792" height="1020" />
-    </state>
-    <state x="537" y="272" key="Vcs.Push.Dialog.v2/0.25.1792.1020@0.25.1792.1020" timestamp="1608923956649" />
-    <state x="778" y="25" width="921" height="1001" key="dock-window-1" timestamp="1608901036241">
-      <screen x="0" y="25" width="1792" height="1020" />
-    </state>
-    <state x="778" y="25" width="921" height="1001" key="dock-window-1/0.25.1792.1020@0.25.1792.1020" timestamp="1608901036241" />
+    <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1625580606745" />
   </component>
 </project>

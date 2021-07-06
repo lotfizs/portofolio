@@ -333,27 +333,27 @@ section .title::after {
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 100%;
+    width: 70%;
 }
 .skills-content .right .css::before{
-    width: 100%;
+    width: 70%;
 }
 .skills-content .right .js::before{
-    width: 80%;
+    width: 70%;
 }
 .skills-content .right .mysql::before{
-    width: 0%;
+    width: 70%;
 }
 .skills-content .right .php::before{
-    width: 0%;
+    width: 60%;
 }
 .skills-content .right .datebases::before{
-    width: 0%;
+    width: 70%;
 }
 
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "my work";
 }
 .teams .carousel .card{
     background: #222;
