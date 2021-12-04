@@ -11,13 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22647d81-b524-4d42-843f-e2cbbb7211ef" name="Default Changelist" comment="portfolio">
-      <change afterPath="$PROJECT_DIR$/img/CV-Lotfi Zaher Saidi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/chatapp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/java game.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/sike.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/website voor school.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footgolf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/javagame.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/java game.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/josh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/vraagteken.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +78,12 @@
       <workItem from="1609168791615" duration="1739000" />
       <workItem from="1609858130123" duration="619000" />
       <workItem from="1616585690397" duration="2726000" />
-      <workItem from="1625577622675" duration="3302000" />
+      <workItem from="1625577622675" duration="3894000" />
+      <workItem from="1632138209400" duration="722000" />
+      <workItem from="1632228908187" duration="348000" />
+      <workItem from="1637671185940" duration="797000" />
+      <workItem from="1638257530910" duration="16000" />
+      <workItem from="1638619950125" duration="1470000" />
     </task>
     <task id="LOCAL-00001" summary="port">
       <created>1608923950978</created>
@@ -92,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609169453942</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="portfolio">
+      <created>1625581337026</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1625581337026</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,12 +126,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="port" />
-    <option name="LAST_COMMIT_MESSAGE" value="port" />
+    <MESSAGE value="portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="portfolio" />
   </component>
   <component name="WindowStateProjectService">
     <state x="405" y="196" key="SettingsEditor" timestamp="1625580606745">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1625580606745" />
+    <state x="128" y="271" key="Vcs.Push.Dialog.v2" timestamp="1625581342448">
+      <screen x="0" y="25" width="1792" height="1021" />
+    </state>
+    <state x="128" y="271" key="Vcs.Push.Dialog.v2/0.25.1792.1021@0.25.1792.1021" timestamp="1625581342448" />
   </component>
 </project>

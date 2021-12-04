@@ -351,7 +351,7 @@ section .title::after {
     width: 70%;
 }
 
-/* teams section styling */
+/* projects section styling */
 .teams .title::after{
     content: "my work";
 }
